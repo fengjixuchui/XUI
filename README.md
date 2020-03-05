@@ -149,6 +149,13 @@ protected void attachBaseContext(Context newBase) {
 }
 ```
 
+## 混淆配置
+
+```
+-keep class com.xuexiang.xui.widget.edittext.materialedittext.** { *; }
+
+```
+
 ----
 
 ## 演示（请star支持）
@@ -229,6 +236,8 @@ C*y | 1￥ | 微信
 *俊杰 | 1￥ | 支付宝
 *鸥 | 10.24￥ | 微信
 *云 | 20.21￥ | 支付宝
+*钰晗 | 66￥ | 支付宝
+*杰柱 | 10￥ | 支付宝
 
 
 ## 联系方式
